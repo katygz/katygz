@@ -8,4 +8,4 @@
 
 💞️ I am constantly seeking new challenges and opportunities to contribute my analytical prowess. Let's connect and embark on exciting data-driven endeavors together! 🚀
 
-📫 Feel free to reach out to me at [Your GitHub Profile Link] for collaboration and networking. Looking forward to connecting with fellow data enthusiasts! 😄📈
+📫 Feel free to reach out to me at www.linkedin.com/in/zhigui or katygui920@gmail.com for collaboration and networking. Looking forward to connecting with fellow data enthusiasts! 😄📈
