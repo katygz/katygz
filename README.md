@@ -1,6 +1,6 @@
 👋 Hello, I'm Katy!
 
-👀 I'm currently pursuing my Master of Science in Business Analytics (MSBA) @ SMU Cox, located in Dallas, Texas. I am an experienced and passionate data analyst, eager to explore the world of data and unravel its mysteries. My journey in the realm of analytics has equipped me with a diverse set of skills and proficiency in various data analysis tools.
+👀 I'm currently pursuing my Master of Science in Business Analytics (MSBA) @ SMU Cox, located in Dallas, Texas. I am an experienced and passionate data analyst, eager to explore the world of data and unravel its mysteries. My journey in the realm of analytics has equipped me with a diverse set of skills and proficiency in various data analysis tools(SQL/Python/R/Tableau).
 
 🌱 I have a particular fascination with machine learning and am continuously expanding my knowledge in this area. With a thirst for knowledge and a hunger to solve complex problems, I find myself delving deeper into the world of data science.
 
